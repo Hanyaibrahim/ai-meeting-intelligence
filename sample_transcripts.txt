@@ -1,0 +1,22 @@
+--- Transcript 1 ---
+Sara: Let's start with the website launch. Are we on track?
+Ahmed: Mostly. The design is done, but the payment page still has bugs.
+Sara: Okay. We decided to postpone the launch to October 20th.
+Ahmed: I'll fix the payment page by next Wednesday.
+Mona: I'll prepare the marketing emails by October 15th.
+Sara: Also, we agreed to use Stripe instead of PayPal.
+Sara: Mona, please send me the budget report by Friday.
+
+--- Transcript 2 ---
+Omar: Welcome everyone. Today we review the mobile app project.
+Laila: The login screen is finished. Testing starts next week.
+Omar: Good. We decided to hire a second tester.
+Youssef: I will post the job listing by Monday.
+Laila: I'll write the test plan by October 25th.
+Omar: We also agreed to move the weekly meeting to Thursdays.
+
+--- Transcript 3 ---
+Nour: The client wants a demo of the dashboard.
+Karim: I can prepare the slides.
+Nour: Great. Let's use the blue template for the demo.
+Hana: I'll collect the sales numbers by Tuesday.
